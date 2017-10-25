@@ -5,3 +5,6 @@ services:
 
 before_script:
 - psql -c 'create database puppr_test;' -U postgres
+
+script:
+- bundle exec rspec

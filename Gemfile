@@ -37,6 +37,7 @@ group :development, :test do
   gem 'rails-controller-testing'
   gem 'faker'
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+  gem 'travis'
 end
 
 group :development do
