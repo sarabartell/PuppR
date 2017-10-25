@@ -1,5 +1,5 @@
 require 'rails_helper'
 
-RSpec.describe PetFinderAdaptersSController, type: :controller do
+RSpec.describe PetfinderController, type: :controller do
 
 end
